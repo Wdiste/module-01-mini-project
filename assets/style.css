@@ -1,0 +1,21 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    background-color: #282727;
+    margin-top: 40px;
+}
+
+header {
+    color: white;
+    background-color: red;
+    position: fixed;
+    top: 0;
+}
+
+li {
+    display: inline;
+}
+
+h2 {
+    background-color: fuchsia;
+}
